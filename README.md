@@ -16,7 +16,7 @@ I'm expanding my skill set with **HTMX**, discovering how minimal JavaScript can
 I'm open to collaborating on exciting projects! Whether it's front-end magic or CMS customization, feel free to connect.
 
 📬 **Get in touch**:  
-- Instagram: [@webdev-sam](https://instagram.com/webdev-sam)  
+- Instagram: [@webdev-sam](https://instagram.com/webdev.sam)  
 - Email: [My Email](hersam1612@gmail.com)  
 - Website: [My Portfolio](https://webdevsam.nexsation.com)
 - Agency Website [Nexsation](https://nexsation.com)
