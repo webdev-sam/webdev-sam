@@ -25,7 +25,7 @@ I'm open to collaborating on exciting projects! Whether it's front-end magic or 
 
 ---
 
-You can tweak it to match your personality and add any relevant links. A well-structured README helps make a great first impression—what do you think? 😊
+I know you're looking at this, reach out to me. Let's talk
 <!---
 webdev-sam/webdev-sam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
