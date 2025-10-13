@@ -18,7 +18,7 @@ I'm open to collaborating on exciting projects! Whether it's front-end magic or 
 📬 **Get in touch**:  
 - Instagram: [@webdev-sam](https://instagram.com/webdev.sam)  
 - Email: [My Email](hersam1612@gmail.com)  
-- Website: [My Portfolio](https://webdevsam.nexsation.com)
+- Website: [My Portfolio](https://webdevsam.io)
 - Agency Website [Nexsation](https://nexsation.com)
 
 ⚡ **Let's build something amazing together!** ⚡  
